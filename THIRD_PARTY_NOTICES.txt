@@ -1,0 +1,46 @@
+GlanceDeck Widget – Third-Party Notices
+Copyright (c) 2026 SARICAYE. All rights reserved.
+
+GlanceDeck Widget uses the following third-party software and services. Their licenses
+are listed below. The full license texts are available at the linked addresses.
+
+------------------------------------------------------------------------------
+Qt for Python (PySide6) and Qt 6
+  License: GNU Lesser General Public License v3 (LGPLv3)
+  https://www.qt.io/qt-for-python  ·  https://www.gnu.org/licenses/lgpl-3.0.html
+  Qt and PySide6 libraries are dynamically linked and shipped as separate files
+  (Qt6*.dll, PySide6\*.pyd) and can be replaced by the user. Source code:
+  https://code.qt.io/
+
+FFmpeg (bundled with Qt Multimedia)
+  License: GNU Lesser General Public License v2.1 or later
+  https://ffmpeg.org/legal.html
+
+Python 3.12
+  License: Python Software Foundation License
+  https://docs.python.org/3/license.html
+
+psutil
+  License: BSD 3-Clause
+  https://github.com/giampaolo/psutil/blob/master/LICENSE
+
+nvidia-ml-py (pynvml)
+  License: BSD 3-Clause
+  https://pypi.org/project/nvidia-ml-py/
+
+pywin32
+  License: Python Software Foundation License
+  https://github.com/mhammond/pywin32
+
+PyInstaller bootloader
+  License: GPLv2 with a special exception allowing use in any program
+  https://pyinstaller.org/en/stable/license.html
+
+------------------------------------------------------------------------------
+Data services
+  Weather data: Open-Meteo.com – Creative Commons Attribution 4.0 (CC BY 4.0)
+    https://open-meteo.com/en/license
+  Radio station directory: radio-browser.info – community database
+    https://www.radio-browser.info/
+
+No other personal data is shared with these services; see the privacy policy.
